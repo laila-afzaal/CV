@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  color: rgba(47, 79, 79, 0.909);
+}
+
+body{
+  background-color: bisque;
+}
+
+.content{
+ background-color: darksalmon;
+ border: 2px solid white;
+ padding: 10px;
+ width: 50%;
+ border-radius: 3px;
+}
