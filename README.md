@@ -1,2 +1,2 @@
 # CV
-CV (made by using html)
+CV (made by using html and css)
